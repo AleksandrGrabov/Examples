@@ -1,0 +1,15 @@
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.exe
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.deps.json
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.runtimeconfig.json
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.dll
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\bin\Debug\net6.0\Example001_HellConsole.pdb
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.csproj.AssemblyReference.cache
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.AssemblyInfoInputs.cache
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.AssemblyInfo.cs
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.csproj.CoreCompileInputs.cache
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.dll
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\refint\Example001_HellConsole.dll
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.pdb
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\Example001_HellConsole.genruntimeconfig.cache
+C:\Users\Intel\OneDrive\Рабочий стол\Examples\Example001_HellConsole\obj\Debug\net6.0\ref\Example001_HellConsole.dll
